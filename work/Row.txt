@@ -1,1 +1,2 @@
+This is new row added in copy-master
 This is row
